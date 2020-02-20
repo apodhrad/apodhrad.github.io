@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "About"
-permalink: /about/
+layout: default
+title: "About Me"
+permalink: /aboutme/
 ---
 Something about me...
+
 Something about my hobbies...
